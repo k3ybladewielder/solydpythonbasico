@@ -1,0 +1,16 @@
+print("Lista de dados:")
+nome = input("nome: ")
+cpf = input ("cpf: ")
+endereço = input ("endereço: ")
+idade = input ("idade: ")
+altura = input ("altura: ")
+telefone = input ("telefone: ")
+
+print("\nLista de dados:")
+print("nome: ", nome)
+print("cpf: ", cpf)
+print("endereço: ", endereço)
+print("idade: ", idade)
+print("altura: ", altura)
+print("telefone: ", telefone)
+
